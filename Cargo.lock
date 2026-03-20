@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "tidy"
+name = "tidymyfiles"
 version = "0.1.0"

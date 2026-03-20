@@ -1,10 +1,10 @@
 [package]
-name = "tidy"
+name = "tidymyfiles"
 version = "0.1.0"
 edition = "2024"
 description = "A simple, fast file organizer by name written in Rust."
 license = "MIT"
-repository = "https://github.com"
+repository = "https://github.com/Usernames-are-useful/Tidymyfiles"
 
 
 [dependencies]
